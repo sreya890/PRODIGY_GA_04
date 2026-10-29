@@ -43,26 +43,7 @@ Pix2Pix consists of two neural networks:
 - Google Colab (GPU Training)
 - VS Code
 
-## Project Structure
-
-```text
-pix2pix/
-│
-├── dataset.py
-├── inspectdata.py
-├── test_dataset.py
-├── generator.py
-├── discriminator.py
-├── train.py
-├── predict.py
-├── requirements.txt
-│
-├── checkpoints_seg_to_photo/
-│   └── generator.pth
-│
-└── predictions_seg_to_photo/
-    ├── generated_building.png
-    └── comparison.png
+son.png
 ```
 
 ## Installation
